@@ -1,2 +1,2 @@
 # Birthday_card
-simple birthday card, writed on Android with google cources
+A simple application - a greeting card written on Android together with the google team
